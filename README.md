@@ -9,8 +9,6 @@ Projeto do curso "Desenvolvendo um sistema de gerenciamento de pessoas em API RE
 
 Foi sugerido que fizessemos alguma modificação criativa no projeto original do curso.
 
-##Saída do by-math
-
 implementei a formatação dos dados das pessoas.
 
 Foram criados uma nova classe (PersonFormattedResponseDTO), um novo método  (toFormattedString) e uma nova chamada rest (@GetMapping("/formatted")).
